@@ -1,4 +1,4 @@
-# ebenezer
+# Ebenezer
 
 A new Flutter application.
 
